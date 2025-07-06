@@ -3,7 +3,7 @@ Under this project, I will be working on two Casestudy using seperate Data Analy
  * Microsoft Excel
    - Amazon Product Review Analysis
  * SQL Management Studio
-   - Kutra Mega Stores Inventory 
+   - Kutra Mega Stores Inventory
 ## Objetives
 * Amazon Product Review Analysis
   - To understand Price rate
